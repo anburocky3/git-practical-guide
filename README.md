@@ -55,6 +55,10 @@ For:
 2. [Handle Conflicts in PR](./feature-branching/scenario/02-handle-conflicts.md)
 3. [Rebase in PR](./feature-branching/scenario/03-rebase-pr.md)
 
+### If you are [developer read this.](./feature-branching/developer-workflow.md)
+
+---
+
 # Commit Guidelines
 
 ### Conventional Commits
