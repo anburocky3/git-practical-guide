@@ -49,6 +49,12 @@ For:
 
 ---
 
+### Learn by Scenario wise
+
+1. [Normal PR](./feature-branching/scenario/01-normal-pr.md)
+2. [Handle Conflicts in PR](./feature-branching/scenario/02-handle-conflicts.md)
+3. [Rebase in PR](./feature-branching/scenario/03-rebase-pr.md)
+
 # Commit Guidelines
 
 ### Conventional Commits
